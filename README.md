@@ -5,3 +5,5 @@ Visit: tailwindcss.com to get more info!
 
 Website link: www.maksud-rahman.com
 
+Update: Now I am working again to improve the design
+
